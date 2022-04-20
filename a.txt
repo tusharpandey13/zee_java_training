@@ -1,0 +1,2 @@
+insert into emp values(1,"Rashmi",80000,21,"SDE","12334");
+insert into emp values(2,"Rakhi",80000,22,"SDE","12345");
